@@ -11,7 +11,7 @@ public class evenodd {
 
         }
         else{
-            System.out.println("odd number");
+            System.out.println("odd");
         }
     }
 }
